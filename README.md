@@ -1,3 +1,3 @@
 # Curso de Git e GitHub
 
-Repositório do curso de Git e GitHub do Cefet. Aqui ficam os exercícios, as anotações e os experimentos feitos no terminal ao longo do curso.
+Este repositório reúne os arquivos dos exercícios do curso de Git e GitHub do Cefet, voltado ao aprofundamento no uso da linha de comando. Com ele, busco entender melhor como essas ferramentas funcionam para usá-las com mais segurança em projetos futuros e no mercado de trabalho.
